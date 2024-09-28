@@ -2,7 +2,7 @@ library google_maps_webservice.staticmap.example;
 
 import 'dart:io';
 
-import 'package:google_maps_webservice/staticmap.dart';
+import 'package:google_maps_webservice2/staticmap.dart';
 
 final apiKey = Platform.environment['API_KEY'] ?? '';
 

@@ -1,4 +1,4 @@
-name: google_maps_webservice
+name: google_maps_webservice2
 description: Google Maps Web Services [API](https://developers.google.com/maps/web-services)
 version: 1.0.5
 homepage: https://github.com/QasimWaheed/google_maps_webservice
@@ -10,7 +10,7 @@ dependencies:
   http: ^1.2.2
   meta: ^1.16.0
   json_annotation: ^4.9.0
-  lints: ^4.0.0
+  lints: ^5.0.0
 
 dev_dependencies:
   test: ^1.25.8

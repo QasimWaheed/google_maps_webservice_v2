@@ -116,4 +116,4 @@ The apiKey is not required in case the proxy sets it. (Not storing the apiKey in
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/lejard-h/google_maps_webservice/issues/new
+[tracker]: https://github.com/QasimWaheed/google_maps_webservice/issues/new
