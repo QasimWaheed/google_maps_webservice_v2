@@ -8,7 +8,7 @@
 - A personal GitHub account (if you don't have one, you can sign-up for free [here][github])
 
 ### Setting up your development environment
-- Fork https://github.com/lejard-h/google_maps_webservice.git into your own GitHub account. If you already have a fork and you're moving to a new computer, make sure you update you fork.
+- Fork https://github.com/QasimWaheed/google_maps_webservice.git into your own GitHub account. If you already have a fork and you're moving to a new computer, make sure you update you fork.
 - If you haven't configured your machine with an SSH key that's known to GitHub, then follow [GitHub's directions][git-ssh] to generate an SSH key.
 - Clone your forked repo on your local development machine:
   ```sh
@@ -20,7 +20,7 @@
   ```
 - Add an upstream to the original repo, so that you can fetch updates to the library from the master repository and not your clone:
   ```sh
-      git remote add upstream git@github.com:lejard-h/google_maps_webservice.git
+      git remote add upstream git@github.com:QasimWaheed-h/google_maps_webservice.git
   ```     
 
 ### Running the example project     
@@ -62,7 +62,7 @@ We really appreciate contributions via GitHub pull requests. To contribute take 
 
 ### Send us your pull request:
 
-Go to https://github.com/lejard-h/google_maps_webservice and click the "Compare & pull request" button.
+Go to https://github.com/QasimWaheed/google_maps_webservice and click the "Compare & pull request" button.
 
 
 Please make sure you solved all warnings and errors reported by the static code analyses and that you fill in the full pull request template. Failing to do so will result in us asking you to fix it.
@@ -74,5 +74,5 @@ Please make sure you solved all warnings and errors reported by the static code 
    [flutter]:<https://flutter.dev/docs/get-started/install>
    [github]:<https://github.com/>
    [git-ssh]:<https://help.github.com/articles/generating-ssh-keys/>
-   [git-repo-url]: <https://github.com/lejard-h/google_maps_webservice.git>
+   [git-repo-url]: <https://github.com/QasimWaheed/google_maps_webservice.git>
    [dart]:<https://www.dartlang.org/tools/sdk>
