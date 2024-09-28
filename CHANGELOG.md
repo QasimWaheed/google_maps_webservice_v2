@@ -2,7 +2,7 @@
 
 ## 0.0.20-nullsafety.5
 
-- Fix `dayTimeToDateTime` (https://github.com/lejard-h/google_maps_webservice/issues/113)
+- Fix `dayTimeToDateTime` (https://github.com/QasimWaheed/google_maps_webservice/issues/113)
 - Make `PlaceDetails.utcOffset` nullable
 
 ## 0.0.20-nullsafety.4
@@ -26,6 +26,10 @@
 ## 0.0.20-nullsafety.0
 
 - Support null safety
+
+## 1.0.5
+
+- Updated all Packages
 
 ## 0.0.19
 
